@@ -1,0 +1,13 @@
+C:\MyWork\.Net\CQRSWithMediatr\DataAccess\DataAccess\bin\Debug\net8.0\DemoLibrary.deps.json
+C:\MyWork\.Net\CQRSWithMediatr\DataAccess\DataAccess\bin\Debug\net8.0\DemoLibrary.dll
+C:\MyWork\.Net\CQRSWithMediatr\DataAccess\DataAccess\bin\Debug\net8.0\DemoLibrary.pdb
+C:\MyWork\.Net\CQRSWithMediatr\DataAccess\DataAccess\obj\Debug\net8.0\DemoLibrary.csproj.AssemblyReference.cache
+C:\MyWork\.Net\CQRSWithMediatr\DataAccess\DataAccess\obj\Debug\net8.0\DemoLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyWork\.Net\CQRSWithMediatr\DataAccess\DataAccess\obj\Debug\net8.0\DemoLibrary.AssemblyInfoInputs.cache
+C:\MyWork\.Net\CQRSWithMediatr\DataAccess\DataAccess\obj\Debug\net8.0\DemoLibrary.AssemblyInfo.cs
+C:\MyWork\.Net\CQRSWithMediatr\DataAccess\DataAccess\obj\Debug\net8.0\DemoLibrary.csproj.CoreCompileInputs.cache
+C:\MyWork\.Net\CQRSWithMediatr\DataAccess\DataAccess\obj\Debug\net8.0\DemoLibrary.sourcelink.json
+C:\MyWork\.Net\CQRSWithMediatr\DataAccess\DataAccess\obj\Debug\net8.0\DemoLibrary.dll
+C:\MyWork\.Net\CQRSWithMediatr\DataAccess\DataAccess\obj\Debug\net8.0\refint\DemoLibrary.dll
+C:\MyWork\.Net\CQRSWithMediatr\DataAccess\DataAccess\obj\Debug\net8.0\DemoLibrary.pdb
+C:\MyWork\.Net\CQRSWithMediatr\DataAccess\DataAccess\obj\Debug\net8.0\ref\DemoLibrary.dll
